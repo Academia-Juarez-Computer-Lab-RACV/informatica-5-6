@@ -1,11 +1,6 @@
 {
     "name": "Informatica 5-6 Python Codespaces Setup",
-    "image": "mcr.microsoft.com/devcontainers/javascript-node:20",
-    "features": {
-        "ghcr.io/devcontainers/features/python:1": {
-            "version": "3.12"
-        }
-    },
+    "image": "mcr.microsoft.com/devcontainers/python:3.12",
     "postCreateCommand": "cat .devcontainer/customize-prompt.sh >> ~/.bashrc",
     "customizations": {
         "vscode": {
