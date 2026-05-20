@@ -1,7 +1,7 @@
 > Last update: May 2026
-# Informatica 3-4 2026
+# Informatica 5-6 2026
 
-In this class, students will learn the necessary skills to start their computer science journey by learning the **C programming language**.
+In this class, students will learn about functions, arguments, return values, variables, conditionals, Boolean expressions, loops, handle exceptions, find and fix bugs, write unit tests, and use third-party libraries using **Python**. 
 
 This repository template contains the required packages, extensions and settings required for this course.
 

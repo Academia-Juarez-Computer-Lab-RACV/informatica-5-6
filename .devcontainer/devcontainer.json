@@ -1,11 +1,14 @@
 {
-    "name": "Informatica 3-4 C Programming Codespaces Setup",
+    "name": "Informatica 5-6 Python Codespaces Setup",
     "image": "mcr.microsoft.com/devcontainers/javascript-node:20",
     "postCreateCommand": "cat .devcontainer/customize-prompt.sh >> ~/.bashrc",
     "customizations": {
         "vscode": {
                         "extensions": [
-                "cs50.extension-uninstaller"
+                "cs50.extension-uninstaller",
+                "ms-python.autopep8",
+                "ms-python.python",
+                "inferrinizzard.prettier-sql-vscode"
 
             ],
             "settings": {
