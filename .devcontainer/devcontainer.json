@@ -4,8 +4,9 @@
     "postCreateCommand": "cat .devcontainer/customize-prompt.sh >> ~/.bashrc",
     "customizations": {
         "vscode": {
-            "extensions": [
-                "cs50.extension-uninstaller"
+            
+                        "extensions": [
+                "cs50.extension-uninstaller",
                 //"formulahendry.code-runner"
                 // "ms-python.autopep8",
                 //"ms-python.python",
@@ -221,4 +222,12 @@
                 "workbench.welcomePage.walkthroughs.openOnInstall": false
             }
         }
+    }
+
 }
+
+
+
+
+
+
