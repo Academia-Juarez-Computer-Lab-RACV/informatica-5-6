@@ -125,9 +125,9 @@
                 "Prettier-SQL.keywordCase": "upper",
                 "problems.decorations.enabled": false,
                 "problems.visibility": false,
-                "python.terminal.activateEnvironment": false,
-                "python.defaultInterpreterPath": "/usr/local/bin/python",
-                "python.globalModuleInstallation": true,
+                //"python.terminal.activateEnvironment": false,
+                //"python.defaultInterpreterPath": "/usr/local/bin/python",
+                //"python.globalModuleInstallation": true,
                 "python.terminal.executeInFileDir": true,
                 "python.terminal.shellIntegration.enabled": false,
                 "[python]": {
